@@ -22,7 +22,7 @@
 <h3 align="center">Context Panel</h3>
 <div align="center">
   <p>Added to the mesh context menu for easy creation</p>   
-  <img width="400" height="353" src="Sculpting Cube pics/Context Panel.jpg">
+  <img width="400" height="353" src="imgs/Context Panel.jpg">
 </div>
 
 
@@ -33,7 +33,7 @@
 <h3 align="center">Properties Panel</h3>
 <div align="center">
   <p>Easily modifiable from the properties panel that pops up when a Blockout Cube is created</p>   
-  <img width="300" height="326" src="Sculpting Cube pics/Properties Panel.jpg">
+  <img width="300" height="326" src="imgs/Properties Panel.jpg">
 </div>
 
 
@@ -44,5 +44,5 @@
 <h3 align="center">Preferences</h3>
 <div align="center">
   <p>Defaults can be set for the Blockout Cubes in the addon Preferences saving those precious seconds 😉</p>   
-  <img width="553" height="199" src="Sculpting Cube pics/Prefernces.jpg">
+  <img width="553" height="199" src="imgs/Prefernces.jpg">
 </div>
